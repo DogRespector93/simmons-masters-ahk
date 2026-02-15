@@ -5,10 +5,19 @@
 ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Automate keyboard shortcuts and text for coursework** — a beginner-friendly guide for classmates new to GitHub and AutoHotkey.
+**Speed up ABA notation in coursework** — automate symbol entry for behavior analysis documentation. Beginner-friendly guide for classmates new to GitHub and AutoHotkey.
 
 ## What this is
 This is a small AutoHotkey (AHK) script that helps with coursework by automating common keyboard actions. AutoHotkey is a free Windows tool that lets you run scripts to automate keystrokes, text snippets, and shortcuts.
+
+## About ABA Notation
+**ABA** (Applied Behavior Analysis) uses specialized notation for documenting behavior, interventions, and observational data. This script provides quick keyboard shortcuts to insert the symbols commonly used in ABA coursework and research:
+- **Δ** (Delta) — represents change or difference
+- **ᴰ** (superscript D) — denotes discriminative stimulus
+- **ᵖ** (superscript p) — often used for response probability
+- **Sᴰ** or **SΔ** — stimulus notations combining multiple elements
+
+Instead of hunting through character maps, type `;sd` or `;delta` and these symbols appear instantly. Perfect for case notes, functional behavior assessments, and research documentation.
 
 ## Prerequisites
 - **Windows 10 or later** (AutoHotkey works on Windows only)
@@ -88,3 +97,8 @@ Right-click the `.ahk` file → **Open with Notepad**. Edit the commands, save, 
 ## Need help?
 
 Message me on our course channel or email me directly — I'm happy to walk you through any step.
+
+---
+
+**Maintainer:** DogRespector93  
+**License:** MIT (see LICENSE file)
